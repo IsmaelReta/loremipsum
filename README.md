@@ -1,1 +1,1 @@
-> _Just some bash, nothing facny_
+> _Just some bash, nothing fancy_
